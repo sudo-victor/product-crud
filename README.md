@@ -16,6 +16,6 @@ OBS: O banco de dados será em memória, ou seja, um Array de objetos
 
 ## Comandos
 
-- ```nest g module [path do serviço]```
+- ```nest g module [path do module]```
 - ```nest g controller [path do controller]```
-- ```nest g service [path do serviço]```
+- ```nest g service [path do service]```
